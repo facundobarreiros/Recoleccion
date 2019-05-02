@@ -1,8 +1,10 @@
-#User Story Specification: <User Story ID\>
+﻿#User Story Specification: <User Story ID\>
 
 ##1.	Description
 
->[A user story is an agile project management tool used to define product or system functionality and the associated benefit of the functionality.  In an Agile environment, projects are commonly comprised of a large number of user stories representing various levels of system/product user.  The user story describes the type of system/product user, what functionality they want, and why they want it (or why it’s beneficial).  The format of a user story is:]
+>[A user story is an agile project management tool used to define product or system functionality and the associated benefit of the functionality.  In an Agile environment, projects are commonly comprised of a large number of user stories representing various levels of system/product user.  The user story describes the type of system/product user, 
+
+what functionality they want, and why they want it (or why it’s beneficial).  The format of a user story is:]
 
 As a <type of user>, I want <some goal> so that <some reason>.
 
